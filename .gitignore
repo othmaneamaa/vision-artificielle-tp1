@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+main1.py
+
+# Éditeurs
+.vscode/
+.idea/
